@@ -40,10 +40,11 @@ module.exports = {
       },
       colors: {
         brand: {
-          DEFAULT: "var(--brand-color)",
+          DEFAULT: "#CD8B11",
           secondary: "#FFCC42",
           link: "#004E92",
           light: "#E6F6FC",
+          hover: "#CD8B11/90",
         },
         icons: {
           facebook: "#0863F7",

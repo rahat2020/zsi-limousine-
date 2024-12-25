@@ -7,7 +7,7 @@ const Services = () => {
   return (
     <section className="py-16">
       <div className="w-full px-12 ">
-        <h2 className=" text-start text-40 font-medium">
+        <h2 className="text-start text-40 font-medium">
           Superior Limousine Services in New York by RPC Limo
         </h2>
         <p className="mx-auto mb-12 max-w-xxl font-normal text-start text-gray-600">
